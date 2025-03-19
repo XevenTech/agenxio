@@ -35,7 +35,7 @@ git clone https://github.com/xeventech/agenxio.git
 
 ## Watch Video Tutorial
 
-[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/agenxio/thumbnail.png?raw=true "Play")](https://youtu.be/LRKDpxoSG5U)
+[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/agenxio/thumnail.png?raw=true "Play")](https://youtu.be/LRKDpxoSG5U)
 
 
 ## Thank you for reading, here's a cat:
